@@ -1,9 +1,13 @@
 ## Hi there 👋
 
+My name is Attila, a Level 1 SOC Analyst / Threat Intelligence (CTI) Analyst with practical, hands-on experience gained through BTL1
+training and BTLO labs. Skilled in phishing analysis, log monitoring, threat intelligence, digital forensics (DFIR), and
+SIEM platforms. Background in web development with JavaScript, React, Python and Django, supporting automation, scripting, and a strong understanding of web technologies and attack surfaces relevant to SOC investigations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I recently built my Active Directory home lab to gain experience on Splunk, Spkunk Universal Forwarder and Sysmon set-up and configuration. Simulating cyber attack on this system to investigate the incident and see what telmetry has been generated.
+  
+- 🌱 I’m currently learning KQL, Microsoft Sentinel, Deffender and Azure.
+
 
 <!--
 **Attila-Kis-Ivan/attila-kis-ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

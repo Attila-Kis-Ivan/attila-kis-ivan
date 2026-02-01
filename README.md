@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Attila, a Level 1 SOC Analyst / Threat Intelligence (CTI) Analyst with practical, hands-on experience gained through BTL1
+My name is Attila, and I'm a Level 1 SOC Analyst / Threat Intelligence (CTI) Analyst with practical, hands-on experience gained through BTL1
 training and BTLO labs. Skilled in phishing analysis, log monitoring, threat intelligence, digital forensics (DFIR), and
 SIEM platforms. Background in web development with JavaScript, React, Python and Django, supporting automation, scripting, and a strong understanding of web technologies and attack surfaces relevant to SOC investigations.
 
